@@ -1,6 +1,6 @@
-# TextEditor by SecretAyee
+# TextEditor by Custom
 
-TextEditor by SecretAyee is a Text Editor as the name suggests, and is made using python and tkinter. An executeble file of this (.exe) will be available in the repository.
+TextEditor by Custom is a Text Editor as the name suggests, and is made using python and tkinter. An executeble file of this (.exe) will be available in the repository.
 
 ## Installation
 
